@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Architecture__UIKit_Tests {
+  umbrella header "Pods-MVVM Architecture (UIKit)Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
